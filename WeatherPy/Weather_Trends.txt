@@ -1,0 +1,5 @@
+Trend #1: When analyzing temperature against latitude, the temperature is lowest and the latitude extremes. That is to say, the farther the latitude is away from zero, the lower the temperature tends to be. Inversely, the temperature rises the closer the latitude gets to zero. This logically corresponds to the knowledge that at the equator, the sun exposure is more direct.
+
+Trend #2: When analyzing cloudiness against latitude, there seems to be no significant difference in cloudiness with relation to the latitude. The percentage of cloudiness seems to be consistently distributed throughout the graph. 
+
+Trend #3: When analyzing wind speed against latitude, higher latitudes seem to trend towards lower wind speeds. While lower latitudes also show low wind speeds, when latitude approaches the extreme low is the only time the wind speeds increase to above 30 mph. The highest wind speeds corresponding to extreme low latitudes most likely relates to the amount of ocean/water vs land mass in these areas of the planet. With a higher percentage of the earth surface in these areas being water, there are fewer obstructions to reduce the wind speed.
